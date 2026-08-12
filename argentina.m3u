@@ -362,3 +362,171 @@ http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-nationalgeog
 
 #EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/mtvhd.png",MTV
 http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-mtv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/qmusica.png",Quiero Musica
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-qmusica.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/StingrayConcerts.png",Stingray Concerts
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-stingrayconcert.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/KZO.png",KZO
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-kzo.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/metro.png",Metro
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-metro.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/comedycentral.png",Comedy Central
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-comedycentral.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/cinemax.png",Cinemax
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-cinemax.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/cinecanal.png",Cinecanal
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-cinecanal.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/tntseries.png",TNT Series
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-seriestnt.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/TNT_Novelas.png",TNT Novelas
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-novelastnt.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/tnt.png",TNT
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-tnt.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/studiouniversal.png",Studio Universal
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-studiouniversal.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/StarChannel.png",Star Channel
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-starchannel.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/Space.png",Space
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-space.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/sony.png",Sony
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-sony.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/AyE.png",A&E
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-aye.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/FilmyArts.png",Film & Arts
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-filmyart.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/TLC.png",TLC
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-tlc.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/Paramount.png",Paramount
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-paramount.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/warner.png",Warner Channel
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-warner.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/volver.png",Volver
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-volver.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/UniversalChannel.png",Universal Channel
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-universalchannel.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/amc.png",AMC
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-amc.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/axn.png",AXN
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-axn.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/FX.png",FX
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-fx.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/tcm.png",TCM
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-tcm.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/Bravo.png",Bravo
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-bravo.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/hbo.png",HBO
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbo.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOPlus.png",HBO PLUS
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hboplus.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOSignature.png",HBO Signature
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbosignature.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOFamily.png",HBO Family
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbofamily.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOMundi.png",HBO MUNDI
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbomundi.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOPop.png",HBO POP
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbopop.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/HBOXtreme.png",HBO XTREME
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hboxtreme.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/hbo2.png",HBO 2
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-hbo2.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento1.png",Evento 1
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento1.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento2.png",Evento 2
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento2.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento3.png",Evento 3
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento3.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento4.png",Evento 4
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento4.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento5.png",Evento 5
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento5.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento6.png",Evento 6
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento6.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento7.png",Evento 7
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento7.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento8.png",Evento 8
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento8.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento9.png",Evento 9
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento9.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento10.png",Evento 10
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento10.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento11.png",Evento 11
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento11.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/evento12.png",Evento 12
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-evento12.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/TycSports.png",TyC Sports
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-tycsport.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/foxsports.png",Fox Sports
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-foxsport.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/FoxSports3.png",Fox Sports 3
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-foxsport3.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/foxsports2.png",Fox Sports 2
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-foxsport2.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn.png",ESPN
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn4.png",ESPN 4
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn4.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn3.png",ESPN 3
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn3.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn2.png",ESPN 2
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn2.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn5.png",ESPN 5
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn5.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.226.28.9:8085/images/espn7.png",ESPN 7
+http://45.226.28.9:8085/Live/dea7e1c6e04d1888a7c46b93b4f9dc94/local-espn7.playlist.m3u8
