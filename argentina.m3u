@@ -1,239 +1,327 @@
 #EXTM3U
-#EXTINF:0 tvg-id="NFL Network" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="Live-Channels",nfl network
-https://cdtest.global.ssl.fastly.net/1790419876~6f685fd094d8597ad0155e560cd55142/channel/0006/chunks.m3u8
-#EXTINF:0 tvg-id="Red Zone" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="Live-Channels",red zone
-https://cdtest.global.ssl.fastly.net/1790419876~afb0d90212081658c65fca3ce4cccfa7/channel/011/chunks.m3u8
-#EXTINF:0 tvg-id="Red Zone2" tvg-logo="https://nflhd.tv/landing/logo-nfl-redzone.jpg" group-title="Live-Channels",red zone2
-https://cdtest.global.ssl.fastly.net/1790419876~7a2acd6b2c81b28e2ffb7465dfc8d0d2/channel/161/chunks.m3u8
-#EXTINF:0 tvg-id="PAC 12 Network" tvg-logo="https://gamepanel.work/logos/pac12.png" group-title="Live-Channels",pac 12 network
-https://cdtest.global.ssl.fastly.net/1790419876~4aa28b6059d9e5fdf7a576db689cbb94/channel/160/chunks.m3u8
-#EXTINF:0 tvg-id="Marquee Network" tvg-logo="https://gamepanel.work/logos/marquee.jpg" group-title="Live-Channels",marquee network
-https://cdtest.global.ssl.fastly.net/1790419876~0ba7ac5a7561d8c377ca7ea2cb1ab74b/channel/124/chunks.m3u8
-#EXTINF:0 tvg-id="NBA TV" tvg-logo="https://nflhd.tv/img/nbatv.jpg" group-title="Live-Channels",nba tv
-https://cdtest.global.ssl.fastly.net/1790419876~becd8f8be474a9def603c32b29ad616c/luster/15/chunks.m3u8
-#EXTINF:0 tvg-id="NHL Network" tvg-logo="https://nflhd.tv/nhl-network.png" group-title="Live-Channels",nhl network
-https://cdtest.global.ssl.fastly.net/1790419876~fde01a3074a48f5b16711dcb45ef5aa6/channel/12/chunks.m3u8
-#EXTINF:0 tvg-id="MLB Network" tvg-logo="https://nflhd.tv/img/mlb-network.jpg?i=1" group-title="Live-Channels",mlb network
-https://cdtest.global.ssl.fastly.net/1790419876~953191c6c759bd2bb1bcc85050b0e3da/channel/14/chunks.m3u8
-#EXTINF:0 tvg-id="Root Sports NW" tvg-logo="https://gamepanel.work/logos/root-sports.jpg" group-title="Live-Channels",root sports nw
-https://cdtest.global.ssl.fastly.net/1790419876~5b41e6dd039ce8fb8d16aedda351d1a4/channel/153/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Detroit" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Detroit-logo.jpg" group-title="Live-Channels",fanduel sports network detroit
-https://cdtest.global.ssl.fastly.net/1790419876~1d292fbb86c9c69679e8561e5b975e84/channel/68/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Florida" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Florida-logo.jpg" group-title="Live-Channels",fanduel sports network florida
-https://cdtest.global.ssl.fastly.net/1790419876~4fe557ae414f50fef47c4550b73b2837/channel/69/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Great Lakes" tvg-logo="https://gamepanel.work/logos/Bally-Sports-Ohio-Great-Lakes-Logo.png" group-title="Live-Channels",fanduel sports network great lakes
-https://cdtest.global.ssl.fastly.net/1790419876~a879586f99bf00eb632cec74c2a2dd39/channel/83/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Indiana" tvg-logo="https://gamepanel.work/logos/bally-sports-indiana.jpg?i=1" group-title="Live-Channels",fanduel sports network indiana
-https://cdtest.global.ssl.fastly.net/1790419876~e5544fc627a1b2644508cd4735ac2d44/channel/119/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Kansas City" tvg-logo="https://gamepanel.work/logos/bally-sports-kc.png?i=1" group-title="Live-Channels",fanduel sports network kansas city
-https://cdtest.global.ssl.fastly.net/1790419876~a37b02398a24318579a08aacd8648a11/channel/157/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Midwest" tvg-logo="https://gamepanel.work/logos/Bally-sports-Midwest.png" group-title="Live-Channels",fanduel sports network midwest
-https://cdtest.global.ssl.fastly.net/1790419876~bec86b196cb3c9dc6c59e2e991b5a550/channel/70/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network New Orleans" tvg-logo="https://gamepanel.work/logos/Bally-sports-New-Orleans.png" group-title="Live-Channels",fanduel sports network new orleans
-https://cdtest.global.ssl.fastly.net/1790419876~ca16a4587a6970d11681b96b6896360a/channel/71/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network North" tvg-logo="https://gamepanel.work/logos/bally-sports-north.jpg" group-title="Live-Channels",fanduel sports network north
-https://cdtest.global.ssl.fastly.net/1790419876~a58688744cb012cff701f7c4a2a3b7f8/channel/63/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network North +" tvg-logo="https://gamepanel.work/logos/Bally-sports-north-plus.jpg" group-title="Live-Channels",fanduel sports network north +
-https://cdtest.global.ssl.fastly.net/1790419876~478bd33a7f4bae07b532c27dd5723d94/channel/66/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Ohio" tvg-logo="https://gamepanel.work/logos/Bally-sports-ohio.jpg" group-title="Live-Channels",fanduel sports network ohio
-https://cdtest.global.ssl.fastly.net/1790419876~2704e590610833afefce0b7ce03f5d13/channel/64/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Oklahoma" tvg-logo="https://gamepanel.work/logos/Bally-sports-Oklahoma.png" group-title="Live-Channels",fanduel sports network oklahoma
-https://cdtest.global.ssl.fastly.net/1790419876~83e4cf142a0cbd2953e8c3b8e8ebc34f/channel/73/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network San Diego" tvg-logo="https://gamepanel.work/logos/Bally-sports-san-deigo.png" group-title="Live-Channels",fanduel sports network san diego
-https://cdtest.global.ssl.fastly.net/1790419876~f598fde3774daa3a5f41ee6a673d9f05/channel/75/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network SoCal" tvg-logo="https://gamepanel.work/logos/bally-sports-socal.jpg" group-title="Live-Channels",fanduel sports network socal
-https://cdtest.global.ssl.fastly.net/1790419876~36c218168cc11ac47f27fe5118a705d6/channel/79/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network South" tvg-logo="https://gamepanel.work/logos/bally-south.jpg" group-title="Live-Channels",fanduel sports network south
-https://cdtest.global.ssl.fastly.net/1790419876~6232c8bfdf36b85f70bf4bcf1b1a0cb0/channel/76/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Southeast" tvg-logo="https://gamepanel.work/logos/bally-southeast.png?i=1" group-title="Live-Channels",fanduel sports network southeast
-https://cdtest.global.ssl.fastly.net/1790419876~d0145e53cbb68a3e00754d6d81182e02/channel/156/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Sun" tvg-logo="https://gamepanel.work/logos/Bally-sports-sun.jpg" group-title="Live-Channels",fanduel sports network sun
-https://cdtest.global.ssl.fastly.net/1790419876~e896f5ce470c8a5f9c6909d75afe38c0/channel/78/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network West" tvg-logo="https://gamepanel.work/logos/Bally-sports-west.jpg" group-title="Live-Channels",fanduel sports network west
-https://cdtest.global.ssl.fastly.net/1790419876~26ebd313d12d29e9d75cfaafd662f15c/channel/80/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin" tvg-logo="https://gamepanel.work/logos/bally-wisconsin.jpg" group-title="Live-Channels",fanduel sports network wisconsin
-https://cdtest.global.ssl.fastly.net/1790419876~f26829fb0d454c5085b3eabe87dc1013/channel/81/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin +" tvg-logo="https://gamepanel.work/logos/bally-wisconsin-plus.jpg" group-title="Live-Channels",fanduel sports network wisconsin +
-https://cdtest.global.ssl.fastly.net/1790419876~51c2f7f51ca314da2a056e949ff35343/channel/147/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Wisconsin Extra" tvg-logo="https://gamepanel.work/logos/bally-ohiocincinnati.jpg" group-title="Live-Channels",fanduel sports network wisconsin extra
-https://cdtest.global.ssl.fastly.net/1790419876~2f7360d66d5bb71cab5389dc93d7a091/channel/129/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network South +" tvg-logo="https://gamepanel.work/logos/bally-south-plus.jpg" group-title="Live-Channels",fanduel sports network south +
-https://cdtest.global.ssl.fastly.net/1790419876~f83d7558fa35e6942ab7776c1a855001/channel/145/chunks.m3u8
-#EXTINF:0 tvg-id="FanDuel Sports Network Southwest" tvg-logo="https://gamepanel.work/logos/bally-sports-southwest-logo.jpg" group-title="Live-Channels",fanduel sports network southwest
-https://cdtest.global.ssl.fastly.net/1790419876~f936f8442b40dcf096d73de34489e94c/channel/120/chunks.m3u8
-#EXTINF:0 tvg-id="Yes Network" tvg-logo="https://gamepanel.work/logos/Yes-Network.jpg" group-title="Live-Channels",yes network
-https://cdtest.global.ssl.fastly.net/1790419876~f915bb434b0a79b6881c29e5a668a2b9/channel/82/chunks.m3u8
-#EXTINF:0 tvg-id="MASN" tvg-logo="https://gamepanel.work/logos/masn.jpg" group-title="Live-Channels",masn
-https://cdtest.global.ssl.fastly.net/1790419876~00a1c7077e3fcaee541fb4371b2dca9b/channel/135/chunks.m3u8
-#EXTINF:0 tvg-id="MASN2" tvg-logo="https://gamepanel.work/logos/masn2.jpg" group-title="Live-Channels",masn2
-https://cdtest.global.ssl.fastly.net/1790419876~b7c259230c551b1ce71881a5b578203c/channel/136/chunks.m3u8
-#EXTINF:0 tvg-id="NESN" tvg-logo="https://gamepanel.work/logos/nesn.jpg" group-title="Live-Channels",nesn
-https://cdtest.global.ssl.fastly.net/1790419876~486d3512289752132460a5b9f2dada52/channel/137/chunks.m3u8
-#EXTINF:0 tvg-id="NESN2" tvg-logo="https://gamepanel.work/logos/nesn2.jpg" group-title="Live-Channels",nesn2
-https://cdtest.global.ssl.fastly.net/1790419876~c9a9434014319c254f84e1ed9e8875ba/channel/138/chunks.m3u8
-#EXTINF:0 tvg-id="SportsNet Lakers" tvg-logo="https://gamepanel.work/logos/lakers.jpg" group-title="Live-Channels",sportsnet lakers
-https://cdtest.global.ssl.fastly.net/1790419876~0c2f5643fb2284bc5fdf8deae4a19734/channel/150/chunks.m3u8
-#EXTINF:0 tvg-id="SportsNet LA Dodgers" tvg-logo="https://gamepanel.work/logos/dodgers.jpg" group-title="Live-Channels",sportsnet la dodgers
-https://cdtest.global.ssl.fastly.net/1790419876~800f82ad468e4b4896d78f218c1955e1/channel/151/chunks.m3u8
-#EXTINF:0 tvg-id="Space City Home" tvg-logo="https://gamepanel.work/logos/Space-City-Home-Network.jpg" group-title="Live-Channels",space city home
-https://cdtest.global.ssl.fastly.net/1790419876~a5170c0ac5afaccaaa14ce905f2d46fc/channel/48/chunks.m3u8
-#EXTINF:0 tvg-id="AT&T Pittsburgh" tvg-logo="https://gamepanel.work/logos/att-pittshburg.jpg" group-title="Live-Channels",at&t pittsburgh
-https://cdtest.global.ssl.fastly.net/1790419876~8a388a833408a52104578167150420f3/channel/132/chunks.m3u8
-#EXTINF:0 tvg-id="Altitude Sports" tvg-logo="https://gamepanel.work/logos/altitude.jpg" group-title="Live-Channels",altitude sports
-https://cdtest.global.ssl.fastly.net/1790419876~a0a39a552e9f1a56f2644a728ae36cd7/channel/123/chunks.m3u8
-#EXTINF:0 tvg-id="MSG" tvg-logo="https://gamepanel.work/logos/msg.jpg" group-title="Live-Channels",msg
-https://cdtest.global.ssl.fastly.net/1790419876~443f989b6c247d7c951da9531df9c84a/channel/122/chunks.m3u8
-#EXTINF:0 tvg-id="MSG+" tvg-logo="https://gamepanel.work/logos/msg-plus.jpg" group-title="Live-Channels",msg+
-https://cdtest.global.ssl.fastly.net/1790419876~ef481225ca951234ffdbe44494dcc46e/channel/134/chunks.m3u8
-#EXTINF:0 tvg-id="TVG Network" tvg-logo="https://gamepanel.work/logos/tvg.jpg?i=1" group-title="Live-Channels",tvg network
-https://cdtest.global.ssl.fastly.net/1790419876~8a17bc17f773bc312ece508178738f81/channel/142/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Bay Area" tvg-logo="https://gamepanel.work/logos/nbcsports-bayarea.jpg" group-title="Live-Channels",nbc sports bay area
-https://cdtest.global.ssl.fastly.net/1790419876~52c25d88b3652425334954fbf6f5f2fb/channel/84/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Bay Area+" tvg-logo="https://gamepanel.work/logos/nbcsports-bayareaplus.jpg" group-title="Live-Channels",nbc sports bay area+
-https://cdtest.global.ssl.fastly.net/1790419876~144052ec1f64bd86859e37f5a546bafe/channel/85/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Boston" tvg-logo="https://gamepanel.work/logos/nbcsports-boston.jpg" group-title="Live-Channels",nbc sports boston
-https://cdtest.global.ssl.fastly.net/1790419876~5a5c37c7c097d58ccfc8a23741a79408/channel/86/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports California" tvg-logo="https://gamepanel.work/logos/nbcsports-california.jpg" group-title="Live-Channels",nbc sports california
-https://cdtest.global.ssl.fastly.net/1790419876~1dfb4158968308996a35969310ae94c2/channel/87/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports California+" tvg-logo="https://gamepanel.work/logos/nbc-california-plus.jpg" group-title="Live-Channels",nbc sports california+
-https://cdtest.global.ssl.fastly.net/1790419876~65888d32ca90e5f072f7a541dbaea24d/channel/141/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Chicago" tvg-logo="https://gamepanel.work/logos/nbcsports-chicago.jpg" group-title="Live-Channels",nbc sports chicago
-https://cdtest.global.ssl.fastly.net/1790419876~11f33a7447d575b9ca7626b947b26060/channel/88/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Philadelphia" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphia.jpg" group-title="Live-Channels",nbc sports philadelphia
-https://cdtest.global.ssl.fastly.net/1790419876~5c1aa6d998c960bade169e7549e1abe8/channel/90/chunks.m3u8
-#EXTINF:0 tvg-id="NBC Sports Philadelphia+" tvg-logo="https://gamepanel.work/logos/nbcsports-philadelphiaplus.jpg" group-title="Live-Channels",nbc sports philadelphia+
-https://cdtest.global.ssl.fastly.net/1790419876~433895858c8d09c73a3209c9b9db3d36/channel/91/chunks.m3u8
-#EXTINF:0 tvg-id="Monumental Sports" tvg-logo="https://gamepanel.work/logos/Monumental-sports-network.jpg" group-title="Live-Channels",monumental sports
-https://cdtest.global.ssl.fastly.net/1790419876~3bb9f2bc44609ce48f978334934e1cfb/channel/92/chunks.m3u8
-#EXTINF:0 tvg-id="ESPN" tvg-logo="https://nflhd.tv/landing/espn.jpg" group-title="Live-Channels",espn
-https://cdtest.global.ssl.fastly.net/1790419876~1c0e7d8dae349995427302c60650d48e/channel/n3/chunks.m3u8
-#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://nflhd.tv/ESPN2.png" group-title="Live-Channels",espn 2
-https://cdtest.global.ssl.fastly.net/1790419876~11438ec6dcaa67414222b87cab3c1a26/channel/4/chunks.m3u8
-#EXTINF:0 tvg-id="ESPNU" tvg-logo="https://gamepanel.work/logos/espnu.jpg" group-title="Live-Channels",espnu
-https://cdtest.global.ssl.fastly.net/1790419876~40e693d62d950086219b9c4564b87efb/channel/127/chunks.m3u8
-#EXTINF:0 tvg-id="Fox Sports 1" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="Live-Channels",fox sports 1
-https://cdtest.global.ssl.fastly.net/1790419876~5a345c10031b859e78fc622ba7e45c54/channel/7/chunks.m3u8
-#EXTINF:0 tvg-id="Fox Sports 2" tvg-logo="https://nflhd.tv/img/fs1.jpg" group-title="Live-Channels",fox sports 2
-https://cdtest.global.ssl.fastly.net/1790419876~3c2ae43edf7c45f950f7c1d330ae81c0/channel/13/chunks.m3u8
-#EXTINF:0 tvg-id="BTN Network" tvg-logo="https://gamepanel.work/logos/btn.jpg" group-title="Live-Channels",btn network
-https://cdtest.global.ssl.fastly.net/1790419876~ab69816f49443bf2b26ef9999165357c/channel/107/chunks.m3u8
-#EXTINF:0 tvg-id="NBC SNY" tvg-logo="https://gamepanel.work/logos/sny.jpg" group-title="Live-Channels",nbc sny
-https://cdtest.global.ssl.fastly.net/1790419876~a0721b143b0a3235d095ed556375457f/channel/95/chunks.m3u8
-#EXTINF:0 tvg-id="ACCN" tvg-logo="https://gamepanel.work/logos/accn.jpg" group-title="Live-Channels",accn
-https://cdtest.global.ssl.fastly.net/1790419876~7a7e9870316d401910c686519e9aa28c/channel/115/chunks.m3u8
-#EXTINF:0 tvg-id="SEC Network" tvg-logo="https://gamepanel.work/logos/sec.jpg" group-title="Live-Channels",sec network
-https://cdtest.global.ssl.fastly.net/1790419876~9480c0c2ae4c37395196ae95c55c2eca/channel/117/chunks.m3u8
-#EXTINF:0 tvg-id="Tennis Channel" tvg-logo="https://gamepanel.work/logos/tennis-channel.jpg" group-title="Live-Channels",tennis channel
-https://cdtest.global.ssl.fastly.net/1790419876~03e8f32f23625af235b508e8a37c6ffb/channel/n116/chunks.m3u8
-#EXTINF:0 tvg-id="CBS" tvg-logo="https://nflhd.tv/landing/cbs-sports.jpg" group-title="Live-Channels",cbs
-https://cdtest.global.ssl.fastly.net/1790419876~d46589281580fd68be854930f33f535b/channel/5/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 1" tvg-logo="https://nflhd.tv/landing/tsn1.jpg" group-title="Live-Channels",tsn 1
-https://cdtest.global.ssl.fastly.net/1790419876~9e74da6a09a2010c074ff9e71abe5dfb/channel/58/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 2" tvg-logo="https://nflhd.tv/landing/tsn2.jpg" group-title="Live-Channels",tsn 2
-https://cdtest.global.ssl.fastly.net/1790419876~62f728912d108cad61a3f8c584378d2d/channel/59/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 3" tvg-logo="https://nflhd.tv/landing/tsn3.jpg" group-title="Live-Channels",tsn 3
-https://cdtest.global.ssl.fastly.net/1790419876~6c99b0a0a1d670d9f8d9e62cc78b8c7f/channel/60/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 4" tvg-logo="https://nflhd.tv/landing/tsn4.jpg" group-title="Live-Channels",tsn 4
-https://cdtest.global.ssl.fastly.net/1790419876~4226dbbcf6c94c6b2688fc015d822a75/channel/61/chunks.m3u8
-#EXTINF:0 tvg-id="TSN 5" tvg-logo="https://nflhd.tv/landing/tsn5.jpg" group-title="Live-Channels",tsn 5
-https://cdtest.global.ssl.fastly.net/1790419876~5427ce00c608ea036d7b40a129ad8803/channel/62/chunks.m3u8
-#EXTINF:0 tvg-id="Star Sports Hindi" tvg-logo="https://nflhd.tv/logos/star-sports-hindi.jpg?i=1" group-title="Live-Channels",star sports hindi
-https://cdtest.global.ssl.fastly.net/1790419876~a41aa636aefb8d2e76a93fae26992e30/channel/star-hindi/chunks.m3u8
-#EXTINF:0 tvg-id="Star Sports 2" tvg-logo="https://nflhd.tv/logos/star-sports-2.jpg" group-title="Live-Channels",star sports 2
-https://cdtest.global.ssl.fastly.net/1790419876~e6ed3cdaf633c274fde034c938497615/channel/star2/chunks.m3u8
-#EXTINF:0 tvg-id="Star Sports 1" tvg-logo="https://nflhd.tv/logos/star-sports-1.jpg" group-title="Live-Channels",star sports 1
-https://cdtest.global.ssl.fastly.net/1790419876~a273b7bf722085c23525bf8712980cb2/channel/star1/chunks.m3u8
-#EXTINF:0 tvg-id="Willow Cricket" tvg-logo="https://nflhd.tv/logos/willow-cricket.jpg" group-title="Live-Channels",willow cricket
-https://cdtest.global.ssl.fastly.net/1790419876~3293a9aa17fe96e50b67617597f58b20/channel/97/chunks.m3u8
-#EXTINF:0 tvg-id="Sky Sports Cricket" tvg-logo="https://nflhd.tv/logos/sky%20sports%20cricket.jpg" group-title="Live-Channels",sky sports cricket
-https://cdtest.global.ssl.fastly.net/1790419876~d20f8aa529509277c8ce0afff6140b04/channel/99/chunks.m3u8
-#EXTINF:0 tvg-id="SuperSport" tvg-logo="https://gamepanel.work/logos/Supersports-Cricket.jpg" group-title="Live-Channels",supersport
-https://cdtest.global.ssl.fastly.net/1790419876~854df3421e23c4b7bdefefdc7631192b/channel/103/chunks.m3u8
-#EXTINF:0 tvg-id="Astro Cricket" tvg-logo="https://gamepanel.work/logos/Astro-Cricket.jpg" group-title="Live-Channels",astro cricket
-https://cdtest.global.ssl.fastly.net/1790419876~b4c9325cce6f7bd49ee90e61950f0632/channel/104/chunks.m3u8
-#EXTINF:0 tvg-id="Golf Channel" tvg-logo="https://gamepanel.work/logos/golf-channel.png" group-title="Live-Channels",golf channel
-https://cdtest.global.ssl.fastly.net/1790419876~230e6a7d7a576ebb1e40e2ebb6e949f3/channel/125/chunks.m3u8
-#EXTINF:0 tvg-id="Sky Sports Golf" tvg-logo="https://gamepanel.work/logos/skygolf.jpg" group-title="Live-Channels",sky sports golf
-https://cdtest.global.ssl.fastly.net/1790419876~ba1a09f11e8eed62a32408b9158c519e/channel/109/chunks.m3u8
-#EXTINF:0 tvg-id="Premier Sports" tvg-logo="https://gamepanel.work/logos/ps.jpg" group-title="Live-Channels",premier sports
-https://cdtest.global.ssl.fastly.net/1790419876~3397c049b0115df7f38c4431be0b79d7/channel/n110/chunks.m3u8
-#EXTINF:0 tvg-id="beIN USA" tvg-logo="https://nflhd.tv/img/bein.jpg" group-title="Live-Channels",bein usa
-https://cdtest.global.ssl.fastly.net/1790419876~4b395bdcb53f0c3d39991f16ed3aa0a1/channel/031/chunks.m3u8
-#EXTINF:0 tvg-id="TBS" tvg-logo="https://nflhd.tv/img/tbs.jpg" group-title="Live-Channels",tbs
-https://cdtest.global.ssl.fastly.net/1790419876~2b31877f458a177257d947dc020b7187/channel/29/chunks.m3u8
-#EXTINF:0 tvg-id="Giants @ Rams" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",giants @ rams
-https://cd1.maxcdn.io/vod/2340103.mp4/chunk.m3u8?md5=ykIb9l7qk2bpdp8BpwUH6g&expires=1790283076
-#EXTINF:0 tvg-id="Colts @ Chiefs" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",colts @ chiefs
-https://cd1.maxcdn.io/vod/2340113.mp4/chunk.m3u8?md5=P880txIz1y2rneteaHo3EQ&expires=1790283076
-#EXTINF:0 tvg-id="Commanders @ Cowboys" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",commanders @ cowboys
-https://cd1.maxcdn.io/vod/2340112.mp4/chunk.m3u8?md5=Na7inzED8T-y0wz_M0y1zg&expires=1790283076
-#EXTINF:0 tvg-id="Seahawks @ Cardinals" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",seahawks @ cardinals
-https://cd1.maxcdn.io/vod/2340111.mp4/chunk.m3u8?md5=lIo_efG2bQ3_Gh97wzcuUA&expires=1790283076
-#EXTINF:0 tvg-id="Dolphins @ 49ers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",dolphins @ 49ers
-https://cd1.maxcdn.io/vod/2340110.mp4/chunk.m3u8?md5=qK3Be5uYAI4iC9m99hbj9w&expires=1790283076
-#EXTINF:0 tvg-id="Jaguars @ Broncos" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",jaguars @ broncos
-https://cd1.maxcdn.io/vod/2340109.mp4/chunk.m3u8?md5=PbgWrsDN9PImh8nhMZYWiw&expires=1790283076
-#EXTINF:0 tvg-id="Raiders @ Chargers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",raiders @ chargers
-https://cd1.maxcdn.io/vod/2340108.mp4/chunk.m3u8?md5=bWkralOEbESQMqMK2O_E2A&expires=1790283076
-#EXTINF:0 tvg-id="Panthers @ Falcons" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",panthers @ falcons
-https://cd1.maxcdn.io/vod/2340107.mp4/chunk.m3u8?md5=QvDLjk_Saw3RoMjD89Kn4g&expires=1790283076
-#EXTINF:0 tvg-id="Vikings @ Bears" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",vikings @ bears
-https://cd1.maxcdn.io/vod/2340106.mp4/chunk.m3u8?md5=QuP6bseRM1gWO9lR2Ht5Hw&expires=1790283076
-#EXTINF:0 tvg-id="Eagles @ Titans" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",eagles @ titans
-https://cd1.maxcdn.io/vod/2340105.mp4/chunk.m3u8?md5=nBZ4_5ckAz9s2X2b3uA_1Q&expires=1790283076
-#EXTINF:0 tvg-id="Steelers @ Patriots" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",steelers @ patriots
-https://cd1.maxcdn.io/vod/2340104.mp4/chunk.m3u8?md5=NHb_ZUEG18e8Cb3oTlNJ0g&expires=1790283076
-#EXTINF:0 tvg-id="Packers @ Jets" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",packers @ jets
-https://cd1.maxcdn.io/vod/2340102.mp4/chunk.m3u8?md5=rW1wpnAh0Dj80OpHnJmlPg&expires=1790283076
-#EXTINF:0 tvg-id="Browns @ Buccaneers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",browns @ buccaneers
-https://cd1.maxcdn.io/vod/2340101.mp4/chunk.m3u8?md5=1STP1XyhkKeG32jwCkNung&expires=1790283076
-#EXTINF:0 tvg-id="Saints @ Ravens" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",saints @ ravens
-https://cd1.maxcdn.io/vod/2340100.mp4/chunk.m3u8?md5=MInLm3T5qe2kIV2qM5wz9w&expires=1790283076
-#EXTINF:0 tvg-id="Bengals @ Texans" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",bengals @ texans
-https://cd1.maxcdn.io/vod/2340099.mp4/chunk.m3u8?md5=L2rdcAMfcCRl-VgFC_KfLQ&expires=1790283076
-#EXTINF:0 tvg-id="Lions @ Bills" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",lions @ bills
-https://cd1.maxcdn.io/vod/2340098.mp4/chunk.m3u8?md5=c1pFz445xd-__uuNnVQrBA&expires=1790283076
-#EXTINF:0 tvg-id="Broncos @ Chiefs" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",broncos @ chiefs
-https://cd1.maxcdn.io/vod/2340089.mp4/chunk.m3u8?md5=UIzsjUD74NfBxbrJKsD8nQ&expires=1790283076
-#EXTINF:0 tvg-id="Cowboys @ Giants" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",cowboys @ giants
-https://cd1.maxcdn.io/vod/2340097.mp4/chunk.m3u8?md5=ngdpMBuT4JZMI_WF3fjFLQ&expires=1790283076
-#EXTINF:0 tvg-id="Dolphins @ Raiders" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",dolphins @ raiders
-https://cd1.maxcdn.io/vod/2340096.mp4/chunk.m3u8?md5=G3TE7qxc_hRT_7ZDc0bnsw&expires=1790283076
-#EXTINF:0 tvg-id="Packers @ Vikings" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",packers @ vikings
-https://cd1.maxcdn.io/vod/2340095.mp4/chunk.m3u8?md5=XZ0pj4agNshxPKaF5fBcaQ&expires=1790283076
-#EXTINF:0 tvg-id="Commanders @ Eagles" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",commanders @ eagles
-https://cd1.maxcdn.io/vod/2340094.mp4/chunk.m3u8?md5=BiDjd-_MO32q2gxggeibOQ&expires=1790283076
-#EXTINF:0 tvg-id="Cardinals @ Chargers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",cardinals @ chargers
-https://cd1.maxcdn.io/vod/2340093.mp4/chunk.m3u8?md5=r5JNemfgG88Lv6SWYUgu6A&expires=1790283076
-#EXTINF:0 tvg-id="Buccaneers @ Bengals" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",buccaneers @ bengals
-https://cd1.maxcdn.io/vod/2340092.mp4/chunk.m3u8?md5=_2eq1R56JIR974Thtd6qCw&expires=1790283076
-#EXTINF:0 tvg-id="Saints @ Lions" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",saints @ lions
-https://cd1.maxcdn.io/vod/2340091.mp4/chunk.m3u8?md5=IWfCbWs2ZfrI_w-h3EeGYg&expires=1790283076
-#EXTINF:0 tvg-id="Jets @ Titans" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",jets @ titans
-https://cd1.maxcdn.io/vod/2340090.mp4/chunk.m3u8?md5=JDQmzyxsXMYDS2F6tiZTag&expires=1790283076
-#EXTINF:0 tvg-id="Ravens @ Colts" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",ravens @ colts
-https://cd1.maxcdn.io/vod/2340088.mp4/chunk.m3u8?md5=5I7pT4jf6TAEfv7goEV7vg&expires=1790283076
-#EXTINF:0 tvg-id="Falcons @ Steelers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",falcons @ steelers
-https://cd1.maxcdn.io/vod/2340087.mp4/chunk.m3u8?md5=mx1SdIOt-4gyDWMbeJq4Ug&expires=1790283076
-#EXTINF:0 tvg-id="Bears @ Panthers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",bears @ panthers
-https://cd1.maxcdn.io/vod/2340086.mp4/chunk.m3u8?md5=Yiv_JeIHZxjw0tra6-NofQ&expires=1790283076
-#EXTINF:0 tvg-id="Browns @ Jaguars" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",browns @ jaguars
-https://cd1.maxcdn.io/vod/2340085.mp4/chunk.m3u8?md5=_PVKStIoXZqL3RnGBBR7KA&expires=1790283076
-#EXTINF:0 tvg-id="Bills @ Texans" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",bills @ texans
-https://cd1.maxcdn.io/vod/2340084.mp4/chunk.m3u8?md5=QIE8chphf7sTmPmB38zWgQ&expires=1790283076
-#EXTINF:0 tvg-id="49ers @ Rams" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",49ers @ rams
-https://cd1.maxcdn.io/vod/2340083.mp4/chunk.m3u8?md5=3TlOKCYDeUVw9-3KPbnQgQ&expires=1790283076
-#EXTINF:0 tvg-id="Patriots @ Seahawks" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",patriots @ seahawks
-https://cd1.maxcdn.io/vod/2340082.mp4/chunk.m3u8?md5=N6IBb9at_fSzlnfLzDUJLA&expires=1790283076
-#EXTINF:0 tvg-id="Bears @ Titans" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",bears @ titans
-https://cd1.maxcdn.io/vod/2340081.mp4/chunk.m3u8?md5=CB54WfIH5JFkELBf1BajAw&expires=1790283076
-#EXTINF:0 tvg-id="Lions @ Colts" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",lions @ colts
-https://cd1.maxcdn.io/vod/2340077.mp4/chunk.m3u8?md5=G8y7YwMmzDoKaU7iihIVNw&expires=1790283076
-#EXTINF:0 tvg-id="Vikings @ Broncos" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",vikings @ broncos
-https://cd1.maxcdn.io/vod/2340371.mp4/chunk.m3u8?md5=zuQvcz75ERcrjwpXxBJV2A&expires=1790283076
-#EXTINF:0 tvg-id="Saints @ Cowboys" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",saints @ cowboys
-https://cd1.maxcdn.io/vod/2340370.mp4/chunk.m3u8?md5=Win2x-bQm1lBUt4Xsk2z8A&expires=1790283076
-#EXTINF:0 tvg-id="Cardinals @ Packers" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",cardinals @ packers
-https://cd1.maxcdn.io/vod/2340369.mp4/chunk.m3u8?md5=GuL1UjPiQnY5OjPebTJhGQ&expires=1790283076
-#EXTINF:0 tvg-id="Seahawks @ Chiefs" tvg-logo="https://nflhd.tv/landing/nfl-network.png" group-title="NFL-Replays",seahawks @ chiefs
-https://cd1.maxcdn.io/vod/2340076.mp4/chunk.m3u8?md5=UxoBFMXDK5Nm-LhPh79Geg&expires=1790283076
+#EXTINF:-1 tvg-name="CL : ZAPPING MUSIC HD", CL : ZAPPING MUSIC HD
+http://hispasat71w.duckdns.org:8888/01/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : ZAPPING CHANNEL HD", CL : ZAPPING CHANNEL HD
+http://hispasat71w.duckdns.org:8888/02/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT NOVELAS HD", LTN : TNT NOVELAS HD
+http://hispasat71w.duckdns.org:8888/03/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : EL TRECE HD", ARG : EL TRECE HD
+http://hispasat71w.duckdns.org:8888/04/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : CHV HD", CL : CHV HD
+http://hispasat71w.duckdns.org:8888/05/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : CANAL 13 HD", CL : CANAL 13 HD
+http://hispasat71w.duckdns.org:8888/06/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : TVN HD", CL : TVN HD
+http://hispasat71w.duckdns.org:8888/07/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : CANAL 9 BIOBIO HD", CL : CANAL 9 BIOBIO HD
+http://hispasat71w.duckdns.org:8888/08/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : COPETATIVA TV HD", CL : COPETATIVA TV HD
+http://hispasat71w.duckdns.org:8888/09/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : LA RED HD", CL : LA RED HD
+http://hispasat71w.duckdns.org:8888/10/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : MEGA HD", CL : MEGA HD
+http://hispasat71w.duckdns.org:8888/11/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : UCV HD", CL : UCV HD
+http://hispasat71w.duckdns.org:8888/12/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISNEY JR HD", LTN : DISNEY JR HD
+http://hispasat71w.duckdns.org:8888/13/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TELEMUNDO DEPORTES HD", LTN : TELEMUNDO DEPORTES HD
+http://hispasat71w.duckdns.org:8888/14/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : SONY CINE HD", LTN : SONY CINE HD
+http://hispasat71w.duckdns.org:8888/15/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : A&E HD", LTN : A&E HD
+http://hispasat71w.duckdns.org:8888/16/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CINECANAL HD", LTN : CINECANAL HD
+http://hispasat71w.duckdns.org:8888/17/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY CHANNEL HD", LTN : DISCOVERY CHANNEL HD
+http://hispasat71w.duckdns.org:8888/18/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FMH MOVIES HD", LTN : FMH MOVIES HD
+http://hispasat71w.duckdns.org:8888/19/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 7 NORTE HD", LTN : ESPN 7 NORTE HD
+http://hispasat71w.duckdns.org:8888/20/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOX SPORTS PREMIUM HD", LTN : FOX SPORTS PREMIUM HD
+http://hispasat71w.duckdns.org:8888/21/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT SPORTS PREMIUM CL HD", LTN : TNT SPORTS PREMIUM CL HD
+http://hispasat71w.duckdns.org:8888/22/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : STAR CHANNEL HD", LTN : STAR CHANNEL HD
+http://hispasat71w.duckdns.org:8888/23/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY ID HD", LTN : DISCOVERY ID HD
+http://hispasat71w.duckdns.org:8888/24/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : L1 MAX HD", LTN : L1 MAX HD
+http://hispasat71w.duckdns.org:8888/25/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO FAMILY HD", LTN : HBO FAMILY HD
+http://hispasat71w.duckdns.org:8888/26/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY WORLD HD", LTN : DISCOVERY WORLD HD
+http://hispasat71w.duckdns.org:8888/27/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : NATGEO HD", LTN : NATGEO HD
+http://hispasat71w.duckdns.org:8888/28/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : BANDAMAX HD", LTN : BANDAMAX HD
+http://hispasat71w.duckdns.org:8888/29/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : COMEDY CENTRAL HD", LTN : COMEDY CENTRAL HD
+http://hispasat71w.duckdns.org:8888/30/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DEPELICULA HD", LTN : DEPELICULA HD
+http://hispasat71w.duckdns.org:8888/31/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : GOLDEN HD", LTN : GOLDEN HD
+http://hispasat71w.duckdns.org:8888/32/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : WARNER CHANNEL SUR HD", LTN : WARNER CHANNEL SUR HD
+http://hispasat71w.duckdns.org:8888/33/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVERSAL CHANNEL HD", LTN : UNIVERSAL CHANNEL HD
+http://hispasat71w.duckdns.org:8888/34/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ENTERTAIMENT HD", LTN : ENTERTAIMENT HD
+http://hispasat71w.duckdns.org:8888/35/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO PLUS HD", LTN : HBO PLUS HD
+http://hispasat71w.duckdns.org:8888/36/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOX SPORTS NORTE HD", LTN : FOX SPORTS NORTE HD
+http://hispasat71w.duckdns.org:8888/37/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVERSAL CINEMA HD", LTN : UNIVERSAL CINEMA HD
+http://hispasat71w.duckdns.org:8888/38/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HISTORY CHANNEL HD", LTN : HISTORY CHANNEL HD
+http://hispasat71w.duckdns.org:8888/39/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY TEATHER HD", LTN : DISCOVERY TEATHER HD
+http://hispasat71w.duckdns.org:8888/40/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : AMC HD", LTN : AMC HD
+http://hispasat71w.duckdns.org:8888/41/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY ANIMAL PLANET HD", LTN : DISCOVERY ANIMAL PLANET HD
+http://hispasat71w.duckdns.org:8888/42/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CINE FAMILIAR HD", LTN : CINE FAMILIAR HD
+http://hispasat71w.duckdns.org:8888/43/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISNEY CHANNEL HD", LTN : DISNEY CHANNEL HD
+http://hispasat71w.duckdns.org:8888/44/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO POP HD", LTN : HBO POP HD
+http://hispasat71w.duckdns.org:8888/45/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FMH FAMILY HD", LTN : FMH FAMILY HD
+http://hispasat71w.duckdns.org:8888/46/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : GOLDEN PREMIERE 2 HD", LTN : GOLDEN PREMIERE 2 HD
+http://hispasat71w.duckdns.org:8888/47/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FMH KIDS HD", LTN : FMH KIDS HD
+http://hispasat71w.duckdns.org:8888/48/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DIRECTV SPORTS HD", LTN : DIRECTV SPORTS HD
+http://hispasat71w.duckdns.org:8888/49/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CINE PREMIUM HD", LTN : CINE PREMIUM HD
+http://hispasat71w.duckdns.org:8888/50/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FX HD", LTN : FX HD
+http://hispasat71w.duckdns.org:8888/51/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN PREMIUM NORTE HD", LTN : ESPN PREMIUM NORTE HD
+http://hispasat71w.duckdns.org:8888/52/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 2 HD", LTN : ESPN 2 HD
+http://hispasat71w.duckdns.org:8888/53/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 6 NORTE HD", LTN : ESPN 6 NORTE HD
+http://hispasat71w.duckdns.org:8888/54/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : GOLDEN EDGE HD", LTN : GOLDEN EDGE HD
+http://hispasat71w.duckdns.org:8888/55/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : NICK HD", LTN : NICK HD
+http://hispasat71w.duckdns.org:8888/56/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY HOME AND HEALT HD", LTN : DISCOVERY HOME AND HEALT HD
+http://hispasat71w.duckdns.org:8888/57/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : SPACE HD", LTN : SPACE HD
+http://hispasat71w.duckdns.org:8888/58/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT HD", LTN : TNT HD
+http://hispasat71w.duckdns.org:8888/59/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DHE HD", LTN : DHE HD
+http://hispasat71w.duckdns.org:8888/60/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : SONY CHANNEL HD", LTN : SONY CHANNEL HD
+http://hispasat71w.duckdns.org:8888/61/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO 2 HD", LTN : HBO 2 HD
+http://hispasat71w.duckdns.org:8888/62/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HOLA TV HD", LTN : HOLA TV HD
+http://hispasat71w.duckdns.org:8888/63/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : MTV HD", LTN : MTV HD
+http://hispasat71w.duckdns.org:8888/64/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : AXN HD", LTN : AXN HD
+http://hispasat71w.duckdns.org:8888/65/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 5 NORTE HD", LTN : ESPN 5 NORTE HD
+http://hispasat71w.duckdns.org:8888/66/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 4 SUR HD", LTN : ESPN 4 SUR HD
+http://hispasat71w.duckdns.org:8888/67/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY KIDS HD", LTN : DISCOVERY KIDS HD
+http://hispasat71w.duckdns.org:8888/68/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 3 SUR HD", LTN : ESPN 3 SUR HD
+http://hispasat71w.duckdns.org:8888/69/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO HD", LTN : HBO HD
+http://hispasat71w.duckdns.org:8888/70/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HISTORY 2 HD", LTN : HISTORY 2 HD
+http://hispasat71w.duckdns.org:8888/71/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : NICKELODEON HD", LTN : NICKELODEON HD
+http://hispasat71w.duckdns.org:8888/72/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY TURBO HD", LTN : DISCOVERY TURBO HD
+http://hispasat71w.duckdns.org:8888/73/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : SONY MOVIES  HD", LTN : SONY MOVIES  HD
+http://hispasat71w.duckdns.org:8888/74/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN SUR HD", LTN : ESPN SUR HD
+http://hispasat71w.duckdns.org:8888/75/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CARTOON NETWORKS HD", LTN : CARTOON NETWORKS HD
+http://hispasat71w.duckdns.org:8888/76/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : BITME HD", LTN : BITME HD
+http://hispasat71w.duckdns.org:8888/77/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CNN INTERNACIONAL HD", LTN : CNN INTERNACIONAL HD
+http://hispasat71w.duckdns.org:8888/78/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : 13 C SD", CL : 13 C SD
+http://hispasat71w.duckdns.org:8888/79/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DIRECTV SPORTS 2 HD", LTN : DIRECTV SPORTS 2 HD
+http://hispasat71w.duckdns.org:8888/80/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : EUROPA EUROPA HD", LTN : EUROPA EUROPA HD
+http://hispasat71w.duckdns.org:8888/81/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOOD NETWORKS HD", LTN : FOOD NETWORKS HD
+http://hispasat71w.duckdns.org:8888/82/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : ANTENA 3 SERIES HD", ES : ANTENA 3 SERIES HD
+http://hispasat71w.duckdns.org:8888/83/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DISCOVERY SCIENCE HD", LTN : DISCOVERY SCIENCE HD
+http://hispasat71w.duckdns.org:8888/84/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : L1 HD", LTN : L1 HD
+http://hispasat71w.duckdns.org:8888/85/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FILM AND ARTS HD", LTN : FILM AND ARTS HD
+http://hispasat71w.duckdns.org:8888/86/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : GOLF CHANNEL HD", LTN : GOLF CHANNEL HD
+http://hispasat71w.duckdns.org:8888/87/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : PASIONES TV HD", LTN : PASIONES TV HD
+http://hispasat71w.duckdns.org:8888/88/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT SPORTS HD", LTN : TNT SPORTS HD
+http://hispasat71w.duckdns.org:8888/89/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : ANTENA 3 CINE HD", ES : ANTENA 3 CINE HD
+http://hispasat71w.duckdns.org:8888/90/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : REAL MADRID TV HD", ES : REAL MADRID TV HD
+http://hispasat71w.duckdns.org:8888/91/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : TELEFE HD", ARG : TELEFE HD
+http://hispasat71w.duckdns.org:8888/92/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : C5N HD", ARG : C5N HD
+http://hispasat71w.duckdns.org:8888/93/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CO : RCN NOVELAS HD", CO : RCN NOVELAS HD
+http://hispasat71w.duckdns.org:8888/94/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : CNN CHILE HD", CL : CNN CHILE HD
+http://hispasat71w.duckdns.org:8888/95/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CO : RCN HD", CO : RCN HD
+http://hispasat71w.duckdns.org:8888/96/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : EL GOURMET HD", LTN : EL GOURMET HD
+http://hispasat71w.duckdns.org:8888/97/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : TYC SPORTS HD", ARG : TYC SPORTS HD
+http://hispasat71w.duckdns.org:8888/98/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : AVI CINE HD", LTN : AVI CINE HD
+http://hispasat71w.duckdns.org:8888/99/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : AVI REVIEW HD", LTN : AVI REVIEW HD
+http://hispasat71w.duckdns.org:8888/100/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FRANCE 24 HD", LTN : FRANCE 24 HD
+http://hispasat71w.duckdns.org:8888/101/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : MAX ANIME HD", LTN : MAX ANIME HD
+http://hispasat71w.duckdns.org:8888/102/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : TELETRAK HD", CL : TELETRAK HD
+http://hispasat71w.duckdns.org:8888/103/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : STUDIO UNIVERSAL HD", LTN : STUDIO UNIVERSAL HD
+http://hispasat71w.duckdns.org:8888/104/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : EURONEWS HD", LTN : EURONEWS HD
+http://hispasat71w.duckdns.org:8888/105/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : LOVE NATURE HD", LTN : LOVE NATURE HD
+http://hispasat71w.duckdns.org:8888/106/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CANAL CLARO HD", LTN : CANAL CLARO HD
+http://hispasat71w.duckdns.org:8888/107/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : LA 1 HD", ES : LA 1 HD
+http://hispasat71w.duckdns.org:8888/108/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : LA 2 HD", ES : LA 2 HD
+http://hispasat71w.duckdns.org:8888/109/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : 24H HD", ES : 24H HD
+http://hispasat71w.duckdns.org:8888/110/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="USA : F1 CHANNEL HD", USA : F1 CHANNEL HD
+http://hispasat71w.duckdns.org:8888/111/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN: BEIN SPORTS EXTRA HD", LTN: BEIN SPORTS EXTRA HD
+http://hispasat71w.duckdns.org:8888/112/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : BBC SERIES HD", LTN : BBC SERIES HD
+http://hispasat71w.duckdns.org:8888/113/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="USA : UFC HD", USA : UFC HD
+http://hispasat71w.duckdns.org:8888/114/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVISION HD", LTN : UNIVISION HD
+http://hispasat71w.duckdns.org:8888/115/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DW ESPAÃOL HD", LTN : DW ESPAÃOL HD
+http://hispasat71w.duckdns.org:8888/116/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : RT ESPAÃOL HD", LTN : RT ESPAÃOL HD
+http://hispasat71w.duckdns.org:8888/117/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FIFA + ESPAÃOL HD", LTN : FIFA + ESPAÃOL HD
+http://hispasat71w.duckdns.org:8888/118/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ES : ANTENA 3 INTERNACIONA HD", ES : ANTENA 3 INTERNACIONA HD
+http://hispasat71w.duckdns.org:8888/119/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ADULT SWIM HD", LTN : ADULT SWIM HD
+http://hispasat71w.duckdns.org:8888/120/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CARTOONITO HD", LTN : CARTOONITO HD
+http://hispasat71w.duckdns.org:8888/121/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CINEMAX HD", LTN : CINEMAX HD
+http://hispasat71w.duckdns.org:8888/122/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CNN ESPAÃOL HD", LTN : CNN ESPAÃOL HD
+http://hispasat71w.duckdns.org:8888/123/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : TVU HD", CL : TVU HD
+http://hispasat71w.duckdns.org:8888/124/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : ZONALATINA SD", CL : ZONALATINA SD
+http://hispasat71w.duckdns.org:8888/125/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="24/7 : EL SEÃOR DE LOS CIELOS HD", 24/7 : EL SEÃOR DE LOS CIELOS HD
+http://hispasat71w.duckdns.org:8888/126/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TELEMUNDO NOTICIAS HD", LTN : TELEMUNDO NOTICIAS HD
+http://hispasat71w.duckdns.org:8888/127/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="24/7 : CASO CERRADO HD", 24/7 : CASO CERRADO HD
+http://hispasat71w.duckdns.org:8888/128/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : EWTN HD", LTN : EWTN HD
+http://hispasat71w.duckdns.org:8888/129/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : 13 REC HD", CL : 13 REC HD
+http://hispasat71w.duckdns.org:8888/130/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOX HD", LTN : FOX HD
+http://hispasat71w.duckdns.org:8888/131/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOX DEPORTES HD", LTN : FOX DEPORTES HD
+http://hispasat71w.duckdns.org:8888/132/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : GARAGE TV SD", ARG : GARAGE TV SD
+http://hispasat71w.duckdns.org:8888/133/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="ARG : ARGENTINIMA SD", ARG : ARGENTINIMA SD
+http://hispasat71w.duckdns.org:8888/134/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="USA : TRACE SPORTS HD", USA : TRACE SPORTS HD
+http://hispasat71w.duckdns.org:8888/135/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : BOMBI TV HD", CL : BOMBI TV HD
+http://hispasat71w.duckdns.org:8888/136/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : VIVE KANAL DRAMA HD", LTN : VIVE KANAL DRAMA HD
+http://hispasat71w.duckdns.org:8888/137/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="USA : THATS ROCK HD", USA : THATS ROCK HD
+http://hispasat71w.duckdns.org:8888/138/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="MX : IMAGEN TV HD", MX : IMAGEN TV HD
+http://hispasat71w.duckdns.org:8888/139/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : MEMORIAS NOVELAS HD", LTN : MEMORIAS NOVELAS HD
+http://hispasat71w.duckdns.org:8888/140/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TELECINE HD", LTN : TELECINE HD
+http://hispasat71w.duckdns.org:8888/141/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : CARTOON NETWORKS CITY HD", LTN : CARTOON NETWORKS CITY HD
+http://hispasat71w.duckdns.org:8888/142/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : CDO PREMIUM HD", CL : CDO PREMIUM HD
+http://hispasat71w.duckdns.org:8888/143/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIMAS HD", LTN : UNIMAS HD
+http://hispasat71w.duckdns.org:8888/144/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TUDN HD", LTN : TUDN HD
+http://hispasat71w.duckdns.org:8888/145/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVISION NOTICIAS + HD", LTN : UNIVISION NOTICIAS + HD
+http://hispasat71w.duckdns.org:8888/146/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ZONA TUDN HD", LTN : ZONA TUDN HD
+http://hispasat71w.duckdns.org:8888/147/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="USA : CANAL VIX ESPAÃOL HD", USA : CANAL VIX ESPAÃOL HD
+http://hispasat71w.duckdns.org:8888/148/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : DIRECTV SPORTS PLUS HD", LTN : DIRECTV SPORTS PLUS HD
+http://hispasat71w.duckdns.org:8888/149/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 3 NORTE HD", LTN : ESPN 3 NORTE HD
+http://hispasat71w.duckdns.org:8888/150/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : ESPN 4 NORTE HD", LTN : ESPN 4 NORTE HD
+http://hispasat71w.duckdns.org:8888/151/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : FOX SPORTS SUR HD", LTN : FOX SPORTS SUR HD
+http://hispasat71w.duckdns.org:8888/152/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVERSAL COMEDY HD", LTN : UNIVERSAL COMEDY HD
+http://hispasat71w.duckdns.org:8888/153/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : UNIVERSAL CRIME HD", LTN : UNIVERSAL CRIME HD
+http://hispasat71w.duckdns.org:8888/154/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : WARNER CHANNEL NORTE HD", LTN : WARNER CHANNEL NORTE HD
+http://hispasat71w.duckdns.org:8888/155/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CL : MEGA 2 HD", CL : MEGA 2 HD
+http://hispasat71w.duckdns.org:8888/156/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="CO : CARACOL HD", CO : CARACOL HD
+http://hispasat71w.duckdns.org:8888/157/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : LIFETIME HD", LTN : LIFETIME HD
+http://hispasat71w.duckdns.org:8888/158/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : SIFY", LTN : SIFY
+http://hispasat71w.duckdns.org:8888/159/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT SERIES HD", LTN : TNT SERIES HD
+http://hispasat71w.duckdns.org:8888/160/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : TNT SPORTS ARG HD", LTN : TNT SPORTS ARG HD
+http://hispasat71w.duckdns.org:8888/161/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : NICK JR HD", LTN : NICK JR HD
+http://hispasat71w.duckdns.org:8888/162/index.m3u8?token=ott
+#EXTINF:-1 tvg-name="LTN : HBO XTREME HD", LTN : HBO XTREME HD
+http://hispasat71w.duckdns.org:8888/163/index.m3u8?token=ott
